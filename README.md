@@ -754,8 +754,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Motion detection recording
 - [ ] Advanced video filters
 
----
-
-**Made with ❤️ for the Computer Vision Community**
-
-For the latest updates, visit: https://github.com/yourusername/webcam-recorder
